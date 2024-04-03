@@ -1,16 +1,17 @@
 ### Hi there 👋
+### Informasi Mahasiswa
 
-<!--
-**DealyAlti/DealyAlti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nama  : Dealy Alti <br>
+NPM   : 2226240037
 
-Here are some ideas to get you started:
+<details>
+  <summary>
+    <h1>Informasi Seputar Dealy</h1>
+  </summary>
+  <summary>Kelas : SI41</summary>
+  <summary>Universitas : Universitas Multi Data Palembang</summary>
+  <summary>Fakultas : Ilmu Komputer dan Rekayasa</summary>
+  <summary>Program Studi : Sistem Informasi</summary>
+  <summary>Mata Kuliah : Pengembangan Aplikasi Web</summary>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
